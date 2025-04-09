@@ -471,6 +471,11 @@ max-width: 1000px;
 margin: 0 auto;
 }
 
+.divcontainer {
+  justify-content: center;
+
+}
+
 .testimonial-card {
 background-color: #ffffff;
 border-radius: 20px;
